@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.js": "javascript",
+        "exception": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "vector": "cpp"
+    }
+}
