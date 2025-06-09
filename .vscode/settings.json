@@ -5,6 +5,41 @@
         "exception": "cpp",
         "tuple": "cpp",
         "utility": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "optional": "cpp"
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "comment.line.double-slash.cpp",
+                "settings": {
+                    "foreground": "#6A9955"
+                }
+            },
+            {
+                "scope": "comment.block.cpp",
+                "settings": {
+                    "foreground": "#569CD6"
+                }
+            },
+            {
+                "scope": "comment.line.double-slash.cpp punctuation.definition.comment.cpp",
+                "settings": {
+                    "foreground": "#6A9955"
+                }
+            },
+            {
+                "scope": "comment.line.cpp",
+                "settings": {
+                    "foreground": "#FF5733"
+                }
+            },
+            {
+                "scope": "comment.block.documentation.cpp",
+                "settings": {
+                    "foreground": "#33FF57"
+                }
+            }
+        ]
     }
 }
