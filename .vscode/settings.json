@@ -6,7 +6,9 @@
         "tuple": "cpp",
         "utility": "cpp",
         "vector": "cpp",
-        "optional": "cpp"
+        "optional": "cpp",
+        "list": "cpp",
+        "xutility": "cpp"
     },
     "editor.tokenColorCustomizations": {
         "textMateRules": [
