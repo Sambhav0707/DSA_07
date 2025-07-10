@@ -8,7 +8,8 @@
         "vector": "cpp",
         "optional": "cpp",
         "list": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "unordered_map": "cpp"
     },
     "editor.tokenColorCustomizations": {
         "textMateRules": [

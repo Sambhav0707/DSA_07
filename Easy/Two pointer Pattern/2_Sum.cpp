@@ -1,5 +1,6 @@
 #include <vector>
 #include <algorithm>
+#include <unordered_map>
 using namespace std;
 
 /*Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
@@ -90,4 +91,37 @@ public:
 
 // But your outer loop goes only up to i = 0 (nums.size() - 2 = 1), so you never reach i = 1, and therefore never test (1,2).
 
-
+/** this is the optimal sol with time complexity of O(n) */
+class Solution {
+    public:
+        vector<int> twoSum(vector<int>& nums, int k) {
+            vector<int>ans;
+            
+        //   for(int i  = 0 ; i < nums.size() ; i++){
+        //     for(int j = i +1 ; j < nums.size() ; j++){
+        //         if(nums[i] + nums[j] == k ){
+        //             ans = {i,j};
+        //             break;
+        //         }
+        //     }
+        //   }
+        unordered_map<int , int>mpp;
+        for(int i = 0 ; i < nums.size() ; i++){
+            int n = k - nums[i];
+            auto it = mpp.find(n);
+            if(it != mpp.end()){
+                ans = {i , it->second};
+                break;
+            }else{
+                mpp.insert({nums[i] , i});
+            }
+        }
+    
+        
+          return ans;
+    
+    
+            }
+    
+           
+    };
