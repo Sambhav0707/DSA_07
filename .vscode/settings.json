@@ -10,7 +10,8 @@
         "list": "cpp",
         "xutility": "cpp",
         "unordered_map": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "xstring": "cpp"
     },
     "editor.tokenColorCustomizations": {
         "textMateRules": [
