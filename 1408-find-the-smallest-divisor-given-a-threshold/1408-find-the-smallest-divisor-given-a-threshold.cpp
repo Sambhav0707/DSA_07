@@ -17,11 +17,7 @@ public:
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
         int ans = 0;
-        int large = INT_MIN;
-
-        for(int i = 0 ; i < nums.size() ; i++){
-            large = max(large , nums[i]);
-        }
+         int large = *max_element(nums.begin(), nums.end());
 
         // brute force approach
         // for(int i = 1 ; i <= large ; i++){
