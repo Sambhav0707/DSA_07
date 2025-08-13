@@ -1,3 +1,6 @@
+#include <vector>
+#include <algorithm>
+using namespace std;
 class Solution {
 public:
     /*first we make a funciton that test the diviser after dividing with all 
