@@ -1,3 +1,6 @@
+#include <vector>
+#include <algorithm>
+using namespace std;
 class Solution {
 public:
     /* we have to write a function to decide wether the current day is possible
