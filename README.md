@@ -21,6 +21,7 @@ I will be adding the question that i did on DSA here
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/Sambhav0707/DSA_07/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sambhav0707/DSA_07/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sambhav0707/DSA_07/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -55,9 +56,14 @@ I will be adding the question that i did on DSA here
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Enumeration
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sambhav0707/DSA_07/tree/master/2844-sum-of-squares-of-special-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
