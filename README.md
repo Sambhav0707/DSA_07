@@ -59,6 +59,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
+| [1448-maximum-69-number](https://github.com/Sambhav0707/DSA_07/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Enumeration
 |  |
@@ -68,4 +69,8 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Sambhav0707/DSA_07/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
