@@ -32,11 +32,13 @@ I will be adding the question that i did on DSA here
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sambhav0707/DSA_07/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -73,4 +75,8 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Sambhav0707/DSA_07/tree/master/1448-maximum-69-number) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
