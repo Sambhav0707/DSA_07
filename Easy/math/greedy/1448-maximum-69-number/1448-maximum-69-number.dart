@@ -1,3 +1,4 @@
+
 class Solution {
   int maximum69Number (int num) {
     String number = num.toString();
