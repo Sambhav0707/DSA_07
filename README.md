@@ -19,6 +19,7 @@ I will be adding the question that i did on DSA here
 | [1646-kth-missing-positive-number](https://github.com/Sambhav0707/DSA_07/tree/master/1646-kth-missing-positive-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/2102-find-the-middle-index-in-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sambhav0707/DSA_07/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@ I will be adding the question that i did on DSA here
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
 | [1448-maximum-69-number](https://github.com/Sambhav0707/DSA_07/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Enumeration
 |  |
 | ------- |
