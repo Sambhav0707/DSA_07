@@ -79,4 +79,9 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0812-rotate-string](https://github.com/Sambhav0707/DSA_07/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Sambhav0707/DSA_07/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
