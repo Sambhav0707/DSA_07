@@ -1,3 +1,5 @@
+import 'dart:math';
+
 class Solution {
   /*
   first we need to find the range 
