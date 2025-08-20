@@ -11,7 +11,8 @@
         "xutility": "cpp",
         "unordered_map": "cpp",
         "algorithm": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "numeric": "cpp"
     },
     "editor.tokenColorCustomizations": {
         "textMateRules": [
