@@ -1,3 +1,7 @@
+#include <vector>
+#include <algorithm>
+#include <numeric>
+using namespace std;
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
@@ -23,4 +27,6 @@ public:
         
         
     }
+
+    // will see the binary search solution later
 };
