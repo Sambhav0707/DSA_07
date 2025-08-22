@@ -8,6 +8,7 @@ I will be adding the question that i did on DSA here
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sambhav0707/DSA_07/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sambhav0707/DSA_07/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Sambhav0707/DSA_07/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Sambhav0707/DSA_07/tree/master/0724-find-pivot-index) |
@@ -68,6 +69,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sambhav0707/DSA_07/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Sambhav0707/DSA_07/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
