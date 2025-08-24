@@ -1,19 +1,19 @@
 class Solution {
   bool isPalindrome(String s) {
-   String cleaned = s
+    s = s
     .split('') // convert to list of chars
     .where((c) => RegExp(r'[a-zA-Z0-9]').hasMatch(c))
     .join(); 
     
-   cleaned = cleaned.toLowerCase();
+   s = s.toLowerCase();
 
   
 
    int l = 0 ;
-   int r = cleaned.length - 1;
+   int r = s.length - 1;
    while(l<=r){
 
-    if(cleaned[l] == cleaned[r]){
+    if(s[l] == s[r]){
         l++;
         r--;
 
