@@ -7,16 +7,31 @@ class Solution {
     
    cleaned = cleaned.toLowerCase();
 
+  
 
-    String temp = cleaned;
-    String reversed = cleaned.split('').reversed.join();
+   int l = 0 ;
+   int r = cleaned.length - 1;
+   while(l<=r){
 
+    if(cleaned[l] == cleaned[r]){
+        l++;
+        r--;
 
-    if(reversed != temp){
+    }else{
         return false;
+        break;
     }
+   }
+   return true;
+    // String temp = cleaned;
+    // String reversed = cleaned.split('').reversed.join();
 
-    return true;
+
+    // if(reversed != temp){
+    //     return false;
+    // }
+
+    // return true;
 
          
   }
