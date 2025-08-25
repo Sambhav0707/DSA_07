@@ -9,6 +9,7 @@ I will be adding the question that i did on DSA here
 | [0004-median-of-two-sorted-arrays](https://github.com/Sambhav0707/DSA_07/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sambhav0707/DSA_07/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Sambhav0707/DSA_07/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Sambhav0707/DSA_07/tree/master/0724-find-pivot-index) |
@@ -41,6 +42,7 @@ I will be adding the question that i did on DSA here
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Sambhav0707/DSA_07/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sambhav0707/DSA_07/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
@@ -111,6 +113,7 @@ I will be adding the question that i did on DSA here
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sambhav0707/DSA_07/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -124,6 +127,7 @@ I will be adding the question that i did on DSA here
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
 |  |
