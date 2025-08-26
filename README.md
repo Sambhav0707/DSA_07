@@ -20,6 +20,7 @@ I will be adding the question that i did on DSA here
 | [1046-max-consecutive-ones-iii](https://github.com/Sambhav0707/DSA_07/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sambhav0707/DSA_07/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sambhav0707/DSA_07/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sambhav0707/DSA_07/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sambhav0707/DSA_07/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sambhav0707/DSA_07/tree/master/1646-kth-missing-positive-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -58,6 +59,7 @@ I will be adding the question that i did on DSA here
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sambhav0707/DSA_07/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sambhav0707/DSA_07/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sambhav0707/DSA_07/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -65,6 +67,7 @@ I will be adding the question that i did on DSA here
 | [0724-find-pivot-index](https://github.com/Sambhav0707/DSA_07/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sambhav0707/DSA_07/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sambhav0707/DSA_07/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/2102-find-the-middle-index-in-array) |
 ## Divide and Conquer
