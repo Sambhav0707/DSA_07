@@ -39,14 +39,38 @@ public:
 
     //    return false;
 
-    // Optimal
-   for(int i = 0 ; i< rows ; i++){
-    if(mat[i][0] <= target && target <= mat[i][cols - 1]){
-      return isInRange(mat[i] , target);
-    }
-   }
+    // Better
+//    for(int i = 0 ; i< rows ; i++){
+//     if(mat[i][0] <= target && target <= mat[i][cols - 1]){
+//       return isInRange(mat[i] , target);
+//     }
+//    }
 
-   return false;
+//    return false;
+    int low = 0;
+    int high = (rows * cols) - 1;
+
+    while(low<=high){
+        int mid = (low + high)/2;
+        int row = mid / cols;
+        int col = mid % cols;
+        if(mat[row][col] == target){
+            return true;
+            break;
+        }
+
+         if(mat[row][col] > target){
+            high = mid-1;
+         }else{
+            low = mid + 1;
+         }
+
+         
+
+    }
+
+     return false;
+    
         
     }
 };
