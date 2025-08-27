@@ -46,6 +46,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Sambhav0707/DSA_07/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Sambhav0707/DSA_07/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sambhav0707/DSA_07/tree/master/0242-valid-anagram) |
@@ -85,6 +86,7 @@ I will be adding the question that i did on DSA here
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sambhav0707/DSA_07/tree/master/0013-roman-to-integer) |
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
 | [1448-maximum-69-number](https://github.com/Sambhav0707/DSA_07/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -109,6 +111,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Sambhav0707/DSA_07/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Sambhav0707/DSA_07/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Sambhav0707/DSA_07/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sambhav0707/DSA_07/tree/master/0242-valid-anagram) |
