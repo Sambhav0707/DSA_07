@@ -13,6 +13,7 @@ I will be adding the question that i did on DSA here
 | [0074-search-a-2d-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Sambhav0707/DSA_07/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Sambhav0707/DSA_07/tree/master/0724-find-pivot-index) |
@@ -34,6 +35,7 @@ I will be adding the question that i did on DSA here
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sambhav0707/DSA_07/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
 | [0907-koko-eating-bananas](https://github.com/Sambhav0707/DSA_07/tree/master/0907-koko-eating-bananas) |
@@ -77,6 +79,7 @@ I will be adding the question that i did on DSA here
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sambhav0707/DSA_07/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sambhav0707/DSA_07/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +151,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0240-search-a-2d-matrix-ii) |
 | [2737-row-with-maximum-ones](https://github.com/Sambhav0707/DSA_07/tree/master/2737-row-with-maximum-ones) |
 ## Stack
 |  |
