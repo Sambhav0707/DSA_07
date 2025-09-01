@@ -12,6 +12,7 @@ I will be adding the question that i did on DSA here
 | [0053-maximum-subarray](https://github.com/Sambhav0707/DSA_07/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Sambhav0707/DSA_07/tree/master/0118-pascals-triangle) |
+| [0219-contains-duplicate-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
@@ -54,6 +55,7 @@ I will be adding the question that i did on DSA here
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sambhav0707/DSA_07/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Sambhav0707/DSA_07/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sambhav0707/DSA_07/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -66,6 +68,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sambhav0707/DSA_07/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sambhav0707/DSA_07/tree/master/1046-max-consecutive-ones-iii) |
