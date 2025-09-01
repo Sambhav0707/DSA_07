@@ -16,22 +16,39 @@ public:
         // return false;
 
         //BETTER
-        unordered_map<int , int>mpp;
-        for(int i = 0; i<nums.size() ; i++){
+        // unordered_map<int , int>mpp;
+        // for(int i = 0; i<nums.size() ; i++){
             
 
-            auto it = mpp.find(nums[i]);
-            if(it != mpp.end()){
-               if( it->second != i){
-                if(abs(i - it->second) <= k){
-                    return true;
-                    break;
-                }
-               }
+        //     auto it = mpp.find(nums[i]);
+        //     if(it != mpp.end()){
+        //        if( it->second != i){
+        //         if(abs(i - it->second) <= k){
+        //             return true;
+        //             break;
+        //         }
+        //        }
+        //     }
+        //     mpp[nums[i]] = i;
+        // }
+        // return false;
+
+        //OPTIMAL 
+         set<int>stt;
+
+        for (int i = 0; i < nums.size(); i++) {
+            
+            if (stt.count(nums[i])) {
+                return true;
             }
-            mpp[nums[i]] = i;
+            stt.insert(nums[i]);
+            if (stt.size() > k) {
+                stt.erase(nums[i - k]);
+            }
         }
+
         return false;
+
         
     }
 };
