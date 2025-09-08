@@ -154,6 +154,7 @@ I will be adding the question that i did on DSA here
 | [0812-rotate-string](https://github.com/Sambhav0707/DSA_07/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sambhav0707/DSA_07/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sambhav0707/DSA_07/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sambhav0707/DSA_07/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 ## String Matching
 |  |
 | ------- |
