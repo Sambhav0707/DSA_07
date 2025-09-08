@@ -142,6 +142,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Sambhav0707/DSA_07/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Sambhav0707/DSA_07/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sambhav0707/DSA_07/tree/master/0125-valid-palindrome) |
