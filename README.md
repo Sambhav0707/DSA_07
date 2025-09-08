@@ -201,6 +201,7 @@ I will be adding the question that i did on DSA here
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0908-middle-of-the-linked-list) |
@@ -220,4 +221,8 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0838-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
