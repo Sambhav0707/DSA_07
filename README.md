@@ -202,6 +202,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0237-delete-node-in-a-linked-list) |
+| [0838-design-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0908-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -215,4 +216,8 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sambhav0707/DSA_07/tree/master/0187-repeated-dna-sequences) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
