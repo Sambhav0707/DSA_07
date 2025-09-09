@@ -9,25 +9,49 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-       ListNode* temp = head;
-       ListNode* prev = prev;
-      unordered_map<ListNode* , int>mp;
-      if(head == NULL){
-        return NULL;
-      }
-        while(temp->next != NULL){
+    //BRUTE FORCE    
+    //    ListNode* temp = head;
+    //    ListNode* prev = prev;
+    //   unordered_map<ListNode* , int>mp;
+    //   if(head == NULL){
+    //     return NULL;
+    //   }
+    //     while(temp->next != NULL){
 
-         if(mp.find(temp) != mp.end()){
-            return temp;
-         }
+    //      if(mp.find(temp) != mp.end()){
+    //         return temp;
+    //      }
 
-         mp[temp]++;
-         temp = temp->next;
+    //      mp[temp]++;
+    //      temp = temp->next;
            
+    //     }
+
+
+    //     return NULL;
+
+    //OPTIMAL
+
+    ListNode* slow = head;
+    ListNode* fast = head;
+
+    while(fast != NULL && fast->next != NULL){
+        slow = slow->next;
+        fast = fast->next->next;
+
+
+        if(fast == slow){
+            slow =head;
+            while(slow != fast){
+                slow = slow->next;
+                fast = fast->next;
+            }
+
+            return fast;
         }
+    }
 
-
-        return NULL;
+    return NULL;
 
         
     }
