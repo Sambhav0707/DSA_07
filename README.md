@@ -120,6 +120,7 @@ I will be adding the question that i did on DSA here
 | [1370-count-number-of-nice-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/Sambhav0707/DSA_07/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Sambhav0707/DSA_07/tree/master/2481-strictly-palindromic-number) |
 ## Enumeration
@@ -161,6 +162,7 @@ I will be adding the question that i did on DSA here
 | [0812-rotate-string](https://github.com/Sambhav0707/DSA_07/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sambhav0707/DSA_07/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sambhav0707/DSA_07/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sambhav0707/DSA_07/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 ## String Matching
