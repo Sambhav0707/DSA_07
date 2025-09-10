@@ -73,6 +73,7 @@ I will be adding the question that i did on DSA here
 | [1034-subarrays-with-k-different-integers](https://github.com/Sambhav0707/DSA_07/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sambhav0707/DSA_07/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -160,6 +161,7 @@ I will be adding the question that i did on DSA here
 | [0812-rotate-string](https://github.com/Sambhav0707/DSA_07/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sambhav0707/DSA_07/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sambhav0707/DSA_07/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sambhav0707/DSA_07/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 ## String Matching
 |  |
@@ -188,6 +190,7 @@ I will be adding the question that i did on DSA here
 | [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sambhav0707/DSA_07/tree/master/1034-subarrays-with-k-different-integers) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Matrix
 |  |
 | ------- |
