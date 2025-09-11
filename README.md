@@ -152,6 +152,7 @@ I will be adding the question that i did on DSA here
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Sambhav0707/DSA_07/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Sambhav0707/DSA_07/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Sambhav0707/DSA_07/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sambhav0707/DSA_07/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0151-reverse-words-in-a-string) |
@@ -203,6 +204,7 @@ I will be adding the question that i did on DSA here
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sambhav0707/DSA_07/tree/master/0020-valid-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sambhav0707/DSA_07/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sambhav0707/DSA_07/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Brainteaser
