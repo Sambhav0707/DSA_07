@@ -140,6 +140,7 @@ I will be adding the question that i did on DSA here
 | [0142-linked-list-cycle-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambhav0707/DSA_07/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0908-middle-of-the-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/Sambhav0707/DSA_07/tree/master/2481-strictly-palindromic-number) |
@@ -208,6 +209,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sambhav0707/DSA_07/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sambhav0707/DSA_07/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sambhav0707/DSA_07/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Brainteaser
@@ -220,6 +222,7 @@ I will be adding the question that i did on DSA here
 | [0141-linked-list-cycle](https://github.com/Sambhav0707/DSA_07/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0908-middle-of-the-linked-list) |
@@ -243,6 +246,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
