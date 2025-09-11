@@ -32,50 +32,35 @@ public:
     //     return ans;   
 
 
-        int r = 0 , l = 0;
-        unordered_map<char , int>mp;
+
       
-    for(int i  = 0 ; i<t.size() ; i++){
-        mp[t[i]]++;
+       
+      int r = 0 , l = 0;
+      int minLen = INT_MAX;
+      int index = -1;
+      int count = 0;
+      int hash[256] = {0};
+      for(char c :t) hash[c]++;
+
+      while(r<s.size()){
+        if(hash[s[r]] > 0) count++;
+        hash[s[r]]--;
+
+        while(count == t.size()){
+            if(r-l+1 < minLen){
+                index = l;
+                minLen = r-l+1;
+            }
+            hash[s[l]]++;
+            if(hash[s[l]] > 0) count--;
+
+            l++;
+        }
+        r++;
+
       }
 
-        int need = 0;
-        int have = 0;
-        need = mp.size();
-        string ans = "";
-        int minL = INT_MAX;
-        // unordered_map<char , int>mp2;
-        // mp2 = mp;
-        int res_l = 0;
-int res_len = INT_MAX;
-
-
-        while(r<s.size()){
-            if(mp.find(s[r]) != mp.end()){
-                mp[s[r]]--;
-                if(mp[s[r]] == 0){
-                    have++;
-                }
-            }
-           
-            while(have==need){
-           if (r - l + 1 < res_len) {
-    res_l = l;
-    res_len = r - l + 1;
-}
-                if(mp.find(s[l]) != mp.end()){
-                    mp[s[l]]++;
-                 
-                    if(mp[s[l]] == 1)    have--;
-                 
-                }
-                l++;
-
-            }
-            r++;
-        }
-
-     return res_len == INT_MAX ? "" : s.substr(res_l, res_len);
+      return index == -1 ? "" : s.substr(index , minLen);
 
 
 
