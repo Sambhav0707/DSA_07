@@ -212,6 +212,7 @@ I will be adding the question that i did on DSA here
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sambhav0707/DSA_07/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sambhav0707/DSA_07/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Sambhav0707/DSA_07/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav0707/DSA_07/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sambhav0707/DSA_07/tree/master/1552-build-an-array-with-stack-operations) |
@@ -246,6 +247,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sambhav0707/DSA_07/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Sambhav0707/DSA_07/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
@@ -256,4 +258,8 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sambhav0707/DSA_07/tree/master/1552-build-an-array-with-stack-operations) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sambhav0707/DSA_07/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
