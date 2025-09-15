@@ -106,6 +106,7 @@ I will be adding the question that i did on DSA here
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sambhav0707/DSA_07/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sambhav0707/DSA_07/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Sambhav0707/DSA_07/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -140,6 +141,7 @@ I will be adding the question that i did on DSA here
 | [0125-valid-palindrome](https://github.com/Sambhav0707/DSA_07/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sambhav0707/DSA_07/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Sambhav0707/DSA_07/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambhav0707/DSA_07/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
@@ -185,6 +187,7 @@ I will be adding the question that i did on DSA here
 | ------- |
 | [0015-3sum](https://github.com/Sambhav0707/DSA_07/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sambhav0707/DSA_07/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Sambhav0707/DSA_07/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sambhav0707/DSA_07/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
@@ -230,6 +233,7 @@ I will be adding the question that i did on DSA here
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sambhav0707/DSA_07/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Sambhav0707/DSA_07/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0237-delete-node-in-a-linked-list) |
@@ -274,4 +278,8 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Sambhav0707/DSA_07/tree/master/1013-fibonacci-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sambhav0707/DSA_07/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
