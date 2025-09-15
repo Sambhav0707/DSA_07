@@ -1,41 +1,24 @@
 class Solution {
 public:
-    int maxSubArray(vector<int>& nums) {
+    int maxSubArray(vector<int>& arr) {
         
    
-   int maxx = INT_MIN;
-   int n =  nums.size();
-  
-//    for(int i  = 0 ; i < n ; i++ ){
-//        int curr = 0;
-//     for(int j = i ; j < n ; j++){
-
-       
-//         curr += nums[j];
-//          maxx = max(maxx , curr);
-//     }
+   // Stores the result (maximum sum found so far)
+    int res = arr[0];           
     
-//    }
-// int curr = 0;
-// for(int i  = 0 ; i < n ; i++){
-//   if(curr + nums[i] > nums[i]){
-//     curr += nums[i];
-//   }else{
-//     curr = nums[i];
-//   }
+    // Maximum sum of subarray ending at current position
+    int maxEnding = arr[0];     
 
-//   maxx = max(curr , maxx);
-// }
+    for (int i = 1; i < arr.size(); i++) {
+        
+        // Either extend the previous subarray or start 
+        // new from current element
+        maxEnding = max(arr[i], maxEnding + arr[i]);
 
-int curr = 0;
-for(int i = 0 ; i < n; i++){
-    if(curr < 0){
-        curr = 0;
+        // Update result if the new subarray sum is larger
+        res = max(res, maxEnding);
     }
-    curr += nums[i];
-    maxx = max(curr , maxx);
-}
-    return maxx;
+    return res;
         
     }
 };
