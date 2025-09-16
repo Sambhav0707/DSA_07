@@ -9,6 +9,7 @@ I will be adding the question that i did on DSA here
 | [0004-median-of-two-sorted-arrays](https://github.com/Sambhav0707/DSA_07/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Sambhav0707/DSA_07/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sambhav0707/DSA_07/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Sambhav0707/DSA_07/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sambhav0707/DSA_07/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Sambhav0707/DSA_07/tree/master/0118-pascals-triangle) |
@@ -61,6 +62,7 @@ I will be adding the question that i did on DSA here
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sambhav0707/DSA_07/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Sambhav0707/DSA_07/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sambhav0707/DSA_07/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Sambhav0707/DSA_07/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0142-linked-list-cycle-ii) |
@@ -166,6 +168,7 @@ I will be adding the question that i did on DSA here
 | [0013-roman-to-integer](https://github.com/Sambhav0707/DSA_07/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sambhav0707/DSA_07/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Sambhav0707/DSA_07/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sambhav0707/DSA_07/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sambhav0707/DSA_07/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0151-reverse-words-in-a-string) |
@@ -190,6 +193,7 @@ I will be adding the question that i did on DSA here
 | ------- |
 | [0015-3sum](https://github.com/Sambhav0707/DSA_07/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sambhav0707/DSA_07/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Sambhav0707/DSA_07/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Sambhav0707/DSA_07/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Sambhav0707/DSA_07/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
