@@ -51,14 +51,15 @@ public:
        for(int  i  = 0 ; i < n ; i++){
             fast = fast->next;
        }
-       
+
   if (fast == nullptr)
         return head->next;
 
        while (fast->next != nullptr){
            
-             fast = fast->next;
+            
              slow = slow->next;
+              fast = fast->next;
         }
 
         slow->next = slow->next->next;
