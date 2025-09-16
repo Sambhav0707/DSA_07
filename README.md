@@ -137,6 +137,7 @@ I will be adding the question that i did on DSA here
 | ------- |
 | [0015-3sum](https://github.com/Sambhav0707/DSA_07/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sambhav0707/DSA_07/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sambhav0707/DSA_07/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sambhav0707/DSA_07/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sambhav0707/DSA_07/tree/master/0141-linked-list-cycle) |
@@ -231,6 +232,7 @@ I will be adding the question that i did on DSA here
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sambhav0707/DSA_07/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Sambhav0707/DSA_07/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sambhav0707/DSA_07/tree/master/0148-sort-list) |
