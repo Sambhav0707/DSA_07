@@ -66,6 +66,7 @@ I will be adding the question that i did on DSA here
 | [0076-minimum-window-substring](https://github.com/Sambhav0707/DSA_07/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Sambhav0707/DSA_07/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sambhav0707/DSA_07/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Sambhav0707/DSA_07/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Sambhav0707/DSA_07/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sambhav0707/DSA_07/tree/master/0217-contains-duplicate) |
@@ -148,6 +149,7 @@ I will be adding the question that i did on DSA here
 | [0142-linked-list-cycle-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sambhav0707/DSA_07/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sambhav0707/DSA_07/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambhav0707/DSA_07/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
@@ -243,6 +245,7 @@ I will be adding the question that i did on DSA here
 | [0141-linked-list-cycle](https://github.com/Sambhav0707/DSA_07/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sambhav0707/DSA_07/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sambhav0707/DSA_07/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0237-delete-node-in-a-linked-list) |
