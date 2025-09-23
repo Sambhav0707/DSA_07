@@ -131,6 +131,7 @@ I will be adding the question that i did on DSA here
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Sambhav0707/DSA_07/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Sambhav0707/DSA_07/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
@@ -257,6 +258,7 @@ I will be adding the question that i did on DSA here
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sambhav0707/DSA_07/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Sambhav0707/DSA_07/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0142-linked-list-cycle-ii) |
@@ -290,6 +292,7 @@ I will be adding the question that i did on DSA here
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Sambhav0707/DSA_07/tree/master/1013-fibonacci-number) |
