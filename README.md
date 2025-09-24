@@ -40,6 +40,7 @@ I will be adding the question that i did on DSA here
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Sambhav0707/DSA_07/tree/master/1755-defuse-the-bomb) |
 | [2047-find-a-peak-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/2047-find-a-peak-element-ii) |
+| [2058-concatenation-of-array](https://github.com/Sambhav0707/DSA_07/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/2102-find-the-middle-index-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2737-row-with-maximum-ones](https://github.com/Sambhav0707/DSA_07/tree/master/2737-row-with-maximum-ones) |
@@ -303,6 +304,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sambhav0707/DSA_07/tree/master/1552-build-an-array-with-stack-operations) |
+| [2058-concatenation-of-array](https://github.com/Sambhav0707/DSA_07/tree/master/2058-concatenation-of-array) |
 ## Queue
 |  |
 | ------- |
