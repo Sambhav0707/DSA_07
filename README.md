@@ -6,6 +6,7 @@ I will be adding the question that i did on DSA here
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sambhav0707/DSA_07/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Sambhav0707/DSA_07/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sambhav0707/DSA_07/tree/master/0018-4sum) |
@@ -68,6 +69,7 @@ I will be adding the question that i did on DSA here
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sambhav0707/DSA_07/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Sambhav0707/DSA_07/tree/master/0049-group-anagrams) |
