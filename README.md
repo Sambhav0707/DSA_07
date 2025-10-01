@@ -28,6 +28,7 @@ I will be adding the question that i did on DSA here
 | [0643-maximum-average-subarray-i](https://github.com/Sambhav0707/DSA_07/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Sambhav0707/DSA_07/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Sambhav0707/DSA_07/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Sambhav0707/DSA_07/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sambhav0707/DSA_07/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Sambhav0707/DSA_07/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
@@ -260,6 +261,7 @@ I will be adding the question that i did on DSA here
 | [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sambhav0707/DSA_07/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Sambhav0707/DSA_07/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Sambhav0707/DSA_07/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav0707/DSA_07/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sambhav0707/DSA_07/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sambhav0707/DSA_07/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -312,6 +314,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Sambhav0707/DSA_07/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Sambhav0707/DSA_07/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sambhav0707/DSA_07/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/Sambhav0707/DSA_07/tree/master/2058-concatenation-of-array) |
 ## Queue
