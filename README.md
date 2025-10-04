@@ -32,6 +32,7 @@ I will be adding the question that i did on DSA here
 | [0735-asteroid-collision](https://github.com/Sambhav0707/DSA_07/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sambhav0707/DSA_07/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Sambhav0707/DSA_07/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/Sambhav0707/DSA_07/tree/master/0917-boats-to-save-people) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sambhav0707/DSA_07/tree/master/1034-subarrays-with-k-different-integers) |
@@ -177,6 +178,7 @@ I will be adding the question that i did on DSA here
 | [0344-reverse-string](https://github.com/Sambhav0707/DSA_07/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/Sambhav0707/DSA_07/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/Sambhav0707/DSA_07/tree/master/2481-strictly-palindromic-number) |
@@ -184,6 +186,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
+| [0917-boats-to-save-people](https://github.com/Sambhav0707/DSA_07/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav0707/DSA_07/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/Sambhav0707/DSA_07/tree/master/1448-maximum-69-number) |
 ## String
@@ -227,6 +230,7 @@ I will be adding the question that i did on DSA here
 | [0242-valid-anagram](https://github.com/Sambhav0707/DSA_07/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sambhav0707/DSA_07/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
+| [0917-boats-to-save-people](https://github.com/Sambhav0707/DSA_07/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/1019-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
