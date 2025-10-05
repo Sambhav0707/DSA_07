@@ -39,6 +39,7 @@ I will be adding the question that i did on DSA here
 | [1034-subarrays-with-k-different-integers](https://github.com/Sambhav0707/DSA_07/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sambhav0707/DSA_07/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sambhav0707/DSA_07/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/Sambhav0707/DSA_07/tree/master/1185-find-in-mountain-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sambhav0707/DSA_07/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sambhav0707/DSA_07/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -68,6 +69,7 @@ I will be adding the question that i did on DSA here
 | [0907-koko-eating-bananas](https://github.com/Sambhav0707/DSA_07/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sambhav0707/DSA_07/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sambhav0707/DSA_07/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/Sambhav0707/DSA_07/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sambhav0707/DSA_07/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sambhav0707/DSA_07/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sambhav0707/DSA_07/tree/master/1646-kth-missing-positive-number) |
@@ -348,4 +350,8 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sambhav0707/DSA_07/tree/master/0496-next-greater-element-i) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/Sambhav0707/DSA_07/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
