@@ -143,6 +143,7 @@ I will be adding the question that i did on DSA here
 | [0053-maximum-subarray](https://github.com/Sambhav0707/DSA_07/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Sambhav0707/DSA_07/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Sambhav0707/DSA_07/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Sambhav0707/DSA_07/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -192,6 +193,7 @@ I will be adding the question that i did on DSA here
 | [0402-remove-k-digits](https://github.com/Sambhav0707/DSA_07/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Sambhav0707/DSA_07/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Sambhav0707/DSA_07/tree/master/0678-valid-parenthesis-string) |
 | [0917-boats-to-save-people](https://github.com/Sambhav0707/DSA_07/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav0707/DSA_07/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/Sambhav0707/DSA_07/tree/master/1448-maximum-69-number) |
@@ -213,6 +215,7 @@ I will be adding the question that i did on DSA here
 | [0344-reverse-string](https://github.com/Sambhav0707/DSA_07/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Sambhav0707/DSA_07/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Sambhav0707/DSA_07/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Sambhav0707/DSA_07/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav0707/DSA_07/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sambhav0707/DSA_07/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -275,6 +278,7 @@ I will be adding the question that i did on DSA here
 | [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Sambhav0707/DSA_07/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sambhav0707/DSA_07/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Sambhav0707/DSA_07/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Sambhav0707/DSA_07/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sambhav0707/DSA_07/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav0707/DSA_07/tree/master/0957-minimum-add-to-make-parentheses-valid) |
