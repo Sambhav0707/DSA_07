@@ -10,6 +10,7 @@ I will be adding the question that i did on DSA here
 | [0004-median-of-two-sorted-arrays](https://github.com/Sambhav0707/DSA_07/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Sambhav0707/DSA_07/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sambhav0707/DSA_07/tree/master/0018-4sum) |
+| [0036-valid-sudoku](https://github.com/Sambhav0707/DSA_07/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Sambhav0707/DSA_07/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sambhav0707/DSA_07/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sambhav0707/DSA_07/tree/master/0053-maximum-subarray) |
@@ -80,6 +81,7 @@ I will be adding the question that i did on DSA here
 | [0001-two-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sambhav0707/DSA_07/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Sambhav0707/DSA_07/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Sambhav0707/DSA_07/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sambhav0707/DSA_07/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sambhav0707/DSA_07/tree/master/0076-minimum-window-substring) |
@@ -264,6 +266,7 @@ I will be adding the question that i did on DSA here
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sambhav0707/DSA_07/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/2047-find-a-peak-element-ii) |
