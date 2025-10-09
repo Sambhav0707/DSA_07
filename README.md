@@ -14,6 +14,7 @@ I will be adding the question that i did on DSA here
 | [0041-first-missing-positive](https://github.com/Sambhav0707/DSA_07/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sambhav0707/DSA_07/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sambhav0707/DSA_07/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sambhav0707/DSA_07/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sambhav0707/DSA_07/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Sambhav0707/DSA_07/tree/master/0118-pascals-triangle) |
@@ -145,6 +146,7 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sambhav0707/DSA_07/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sambhav0707/DSA_07/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Sambhav0707/DSA_07/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Sambhav0707/DSA_07/tree/master/0678-valid-parenthesis-string) |
@@ -195,6 +197,7 @@ I will be adding the question that i did on DSA here
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sambhav0707/DSA_07/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Sambhav0707/DSA_07/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Sambhav0707/DSA_07/tree/master/0455-assign-cookies) |
