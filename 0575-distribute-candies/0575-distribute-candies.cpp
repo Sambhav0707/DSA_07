@@ -8,9 +8,10 @@ public:
 
         for(int c : candyType ){
             mp[c]++;
+            if(mp.size() > n) return n;
         }
 
-        if(mp.size() > n) return n;
+       
 
         return mp.size();
         
