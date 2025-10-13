@@ -236,6 +236,7 @@ I will be adding the question that i did on DSA here
 | [1885-count-number-of-homogenous-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sambhav0707/DSA_07/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [3617-find-the-original-typed-string-i](https://github.com/Sambhav0707/DSA_07/tree/master/3617-find-the-original-typed-string-i) |
 ## String Matching
 |  |
 | ------- |
