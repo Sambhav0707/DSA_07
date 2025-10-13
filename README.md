@@ -30,6 +30,7 @@ I will be adding the question that i did on DSA here
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sambhav0707/DSA_07/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Sambhav0707/DSA_07/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Sambhav0707/DSA_07/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Sambhav0707/DSA_07/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Sambhav0707/DSA_07/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Sambhav0707/DSA_07/tree/master/0682-baseball-game) |
@@ -102,6 +103,7 @@ I will be adding the question that i did on DSA here
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sambhav0707/DSA_07/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Sambhav0707/DSA_07/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Sambhav0707/DSA_07/tree/master/0575-distribute-candies) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sambhav0707/DSA_07/tree/master/1034-subarrays-with-k-different-integers) |
@@ -225,6 +227,7 @@ I will be adding the question that i did on DSA here
 | [0344-reverse-string](https://github.com/Sambhav0707/DSA_07/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Sambhav0707/DSA_07/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/Sambhav0707/DSA_07/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/Sambhav0707/DSA_07/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Sambhav0707/DSA_07/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav0707/DSA_07/tree/master/0957-minimum-add-to-make-parentheses-valid) |
