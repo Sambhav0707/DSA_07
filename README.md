@@ -191,6 +191,7 @@ I will be adding the question that i did on DSA here
 | [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sambhav0707/DSA_07/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sambhav0707/DSA_07/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Sambhav0707/DSA_07/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0908-middle-of-the-linked-list) |
@@ -225,6 +226,7 @@ I will be adding the question that i did on DSA here
 | [0205-isomorphic-strings](https://github.com/Sambhav0707/DSA_07/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sambhav0707/DSA_07/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sambhav0707/DSA_07/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/Sambhav0707/DSA_07/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Sambhav0707/DSA_07/tree/master/0500-keyboard-row) |
