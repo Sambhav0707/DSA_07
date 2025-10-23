@@ -106,6 +106,7 @@ I will be adding the question that i did on DSA here
 | [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sambhav0707/DSA_07/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sambhav0707/DSA_07/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Sambhav0707/DSA_07/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sambhav0707/DSA_07/tree/master/0496-next-greater-element-i) |
@@ -233,6 +234,7 @@ I will be adding the question that i did on DSA here
 | [0242-valid-anagram](https://github.com/Sambhav0707/DSA_07/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sambhav0707/DSA_07/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Sambhav0707/DSA_07/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Sambhav0707/DSA_07/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Sambhav0707/DSA_07/tree/master/0500-keyboard-row) |
@@ -261,6 +263,7 @@ I will be adding the question that i did on DSA here
 | [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sambhav0707/DSA_07/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sambhav0707/DSA_07/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Sambhav0707/DSA_07/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Sambhav0707/DSA_07/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Sambhav0707/DSA_07/tree/master/0917-boats-to-save-people) |
@@ -332,6 +335,7 @@ I will be adding the question that i did on DSA here
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sambhav0707/DSA_07/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Sambhav0707/DSA_07/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Sambhav0707/DSA_07/tree/master/0389-find-the-difference) |
 ## Rolling Hash
 |  |
 | ------- |
