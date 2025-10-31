@@ -10,11 +10,14 @@ class Solution:
         if root is None:
             return []
         
-        result.extend(self.inorderTraversal(root.left))
-        result.append(root.val)
-        result.extend(self.inorderTraversal(root.right))
+        
 
-        return result
+        # Return: [All from LEFT] + [the ROOT] + [All from RIGHT]
+        return (self.inorderTraversal(root.left) 
+                + [root.val] 
+                + self.inorderTraversal(root.right))
+
+        
 
         
         
