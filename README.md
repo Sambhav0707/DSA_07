@@ -37,6 +37,7 @@ I will be adding the question that i did on DSA here
 | [0455-assign-cookies](https://github.com/Sambhav0707/DSA_07/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Sambhav0707/DSA_07/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sambhav0707/DSA_07/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Sambhav0707/DSA_07/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Sambhav0707/DSA_07/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Sambhav0707/DSA_07/tree/master/0682-baseball-game) |
@@ -84,6 +85,7 @@ I will be adding the question that i did on DSA here
 | [0287-find-the-duplicate-number](https://github.com/Sambhav0707/DSA_07/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sambhav0707/DSA_07/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sambhav0707/DSA_07/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sambhav0707/DSA_07/tree/master/0792-binary-search) |
