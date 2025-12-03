@@ -68,6 +68,7 @@ I will be adding the question that i did on DSA here
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2737-row-with-maximum-ones](https://github.com/Sambhav0707/DSA_07/tree/master/2737-row-with-maximum-ones) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sambhav0707/DSA_07/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sambhav0707/DSA_07/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sambhav0707/DSA_07/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Sambhav0707/DSA_07/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -131,6 +132,7 @@ I will be adding the question that i did on DSA here
 | [1370-count-number-of-nice-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sambhav0707/DSA_07/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sambhav0707/DSA_07/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sambhav0707/DSA_07/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
@@ -288,6 +290,7 @@ I will be adding the question that i did on DSA here
 | [0455-assign-cookies](https://github.com/Sambhav0707/DSA_07/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Sambhav0707/DSA_07/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/1019-squares-of-a-sorted-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sambhav0707/DSA_07/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
