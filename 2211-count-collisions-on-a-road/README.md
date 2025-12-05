@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-collisions-on-a-road">2211. Count Collisions on a Road</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> cars on an infinitely long road. The cars are numbered from <code>0</code> to <code>n - 1</code> from left to right and each car is present at a <strong>unique</strong> point.</p>
+<h2><a href="https://leetcode.com/problems/count-collisions-on-a-road">2317. Count Collisions on a Road</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> cars on an infinitely long road. The cars are numbered from <code>0</code> to <code>n - 1</code> from left to right and each car is present at a <strong>unique</strong> point.</p>
 
 <p>You are given a <strong>0-indexed</strong> string <code>directions</code> of length <code>n</code>. <code>directions[i]</code> can be either <code>&#39;L&#39;</code>, <code>&#39;R&#39;</code>, or <code>&#39;S&#39;</code> denoting whether the <code>i<sup>th</sup></code> car is moving towards the <strong>left</strong>, towards the <strong>right</strong>, or <strong>staying</strong> at its current point respectively. Each moving car has the <strong>same speed</strong>.</p>
 
