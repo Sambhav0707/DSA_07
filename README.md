@@ -44,6 +44,7 @@ I will be adding the question that i did on DSA here
 | [0575-distribute-candies](https://github.com/Sambhav0707/DSA_07/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Sambhav0707/DSA_07/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Sambhav0707/DSA_07/tree/master/0682-baseball-game) |
+| [0706-design-hashmap](https://github.com/Sambhav0707/DSA_07/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Sambhav0707/DSA_07/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Sambhav0707/DSA_07/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sambhav0707/DSA_07/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -130,6 +131,7 @@ I will be adding the question that i did on DSA here
 | [0496-next-greater-element-i](https://github.com/Sambhav0707/DSA_07/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sambhav0707/DSA_07/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Sambhav0707/DSA_07/tree/master/0575-distribute-candies) |
+| [0706-design-hashmap](https://github.com/Sambhav0707/DSA_07/tree/master/0706-design-hashmap) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sambhav0707/DSA_07/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1370-count-number-of-nice-subarrays) |
@@ -362,6 +364,7 @@ I will be adding the question that i did on DSA here
 | [0206-reverse-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0237-delete-node-in-a-linked-list) |
+| [0706-design-hashmap](https://github.com/Sambhav0707/DSA_07/tree/master/0706-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -380,12 +383,14 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sambhav0707/DSA_07/tree/master/0187-repeated-dna-sequences) |
+| [0706-design-hashmap](https://github.com/Sambhav0707/DSA_07/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sambhav0707/DSA_07/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sambhav0707/DSA_07/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sambhav0707/DSA_07/tree/master/0232-implement-queue-using-stacks) |
+| [0706-design-hashmap](https://github.com/Sambhav0707/DSA_07/tree/master/0706-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
