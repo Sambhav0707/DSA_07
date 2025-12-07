@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/design-hashmap">706. Design HashMap</a></h2><h3>Easy</h3><hr><p>Design a HashMap without using any built-in hash table libraries.</p>
+<h2><a href="https://leetcode.com/problems/design-hashmap">817. Design HashMap</a></h2><h3>Easy</h3><hr><p>Design a HashMap without using any built-in hash table libraries.</p>
 
 <p>Implement the <code>MyHashMap</code> class:</p>
 
