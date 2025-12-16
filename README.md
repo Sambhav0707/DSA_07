@@ -88,6 +88,7 @@ I will be adding the question that i did on DSA here
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sambhav0707/DSA_07/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/Sambhav0707/DSA_07/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Sambhav0707/DSA_07/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sambhav0707/DSA_07/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
@@ -433,6 +434,7 @@ I will be adding the question that i did on DSA here
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Sambhav0707/DSA_07/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sambhav0707/DSA_07/tree/master/0374-guess-number-higher-or-lower) |
 | [1185-find-in-mountain-array](https://github.com/Sambhav0707/DSA_07/tree/master/1185-find-in-mountain-array) |
 ## Tree
