@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/apple-redistribution-into-boxes">3334. Apple Redistribution into Boxes</a></h2><h3>Easy</h3><hr><p>You are given an array <code>apple</code> of size <code>n</code> and an array <code>capacity</code> of size <code>m</code>.</p>
+<h2><a href="https://leetcode.com/problems/apple-redistribution-into-boxes/?envType=daily-question&envId=2025-12-24">3074. Apple Redistribution into Boxes</a></h2><h3>Easy</h3><hr><p>You are given an array <code>apple</code> of size <code>n</code> and an array <code>capacity</code> of size <code>m</code>.</p>
 
 <p>There are <code>n</code> packs where the <code>i<sup>th</sup></code> pack contains <code>apple[i]</code> apples. There are <code>m</code> boxes as well, and the <code>i<sup>th</sup></code> box has a capacity of <code>capacity[i]</code> apples.</p>
 
