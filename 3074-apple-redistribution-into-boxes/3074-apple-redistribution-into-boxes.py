@@ -6,7 +6,7 @@ class Solution:
         last = len(capacity) - 1
         count = 0
 
-        while result != 0:
+        while result > 0:
             if result > capacity[last]:
                 result = result - capacity[last]
                 last -= 1
