@@ -14,7 +14,7 @@ class Solution:
                 total += happiness[i] - dcount
                 dcount += 1
             else:
-                continue
+                break
 
         return total
 
