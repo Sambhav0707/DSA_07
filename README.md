@@ -171,6 +171,7 @@ I will be adding the question that i did on DSA here
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sambhav0707/DSA_07/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/2102-find-the-middle-index-in-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Sambhav0707/DSA_07/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -281,6 +282,7 @@ I will be adding the question that i did on DSA here
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sambhav0707/DSA_07/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2211-count-collisions-on-a-road](https://github.com/Sambhav0707/DSA_07/tree/master/2211-count-collisions-on-a-road) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Sambhav0707/DSA_07/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sambhav0707/DSA_07/tree/master/3617-find-the-original-typed-string-i) |
 ## String Matching
 |  |
