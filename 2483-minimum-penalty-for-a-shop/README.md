@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-penalty-for-a-shop">2483. Minimum Penalty for a Shop</a></h2><h3>Medium</h3><hr><p>You are given the customer visit log of a shop represented by a <strong>0-indexed</strong> string <code>customers</code> consisting only of characters <code>&#39;N&#39;</code> and <code>&#39;Y&#39;</code>:</p>
+<h2><a href="https://leetcode.com/problems/minimum-penalty-for-a-shop">2576. Minimum Penalty for a Shop</a></h2><h3>Medium</h3><hr><p>You are given the customer visit log of a shop represented by a <strong>0-indexed</strong> string <code>customers</code> consisting only of characters <code>&#39;N&#39;</code> and <code>&#39;Y&#39;</code>:</p>
 
 <ul>
 	<li>if the <code>i<sup>th</sup></code> character is <code>&#39;Y&#39;</code>, it means that customers come at the <code>i<sup>th</sup></code> hour</li>
