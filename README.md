@@ -57,6 +57,7 @@ I will be adding the question that i did on DSA here
 | [1046-max-consecutive-ones-iii](https://github.com/Sambhav0707/DSA_07/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sambhav0707/DSA_07/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Sambhav0707/DSA_07/tree/master/1185-find-in-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sambhav0707/DSA_07/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sambhav0707/DSA_07/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -102,6 +103,7 @@ I will be adding the question that i did on DSA here
 | [1046-max-consecutive-ones-iii](https://github.com/Sambhav0707/DSA_07/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sambhav0707/DSA_07/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Sambhav0707/DSA_07/tree/master/1185-find-in-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sambhav0707/DSA_07/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sambhav0707/DSA_07/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sambhav0707/DSA_07/tree/master/1646-kth-missing-positive-number) |
@@ -335,6 +337,7 @@ I will be adding the question that i did on DSA here
 | [0036-valid-sudoku](https://github.com/Sambhav0707/DSA_07/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/Sambhav0707/DSA_07/tree/master/2737-row-with-maximum-ones) |
 ## Stack
