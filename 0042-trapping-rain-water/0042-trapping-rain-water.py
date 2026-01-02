@@ -5,22 +5,24 @@ class Solution:
         leftMax = [0] * n
         rightMax = [0] * n
 
-        leftMax[0] = height[0]
+        left = 0
         # setting the leftMax 
-        for i in range(1, n):
-            leftMax[i] = max(leftMax[i - 1] , height[i])
+        for i in range(n):
+            leftMax[i] = left
+            left = max(left , height[i])
 
-        rightMax[n-1] = height[n-1]
+        right = 0
 
-        for i in range(n-2, -1 , -1):
-            rightMax[i] = max(rightMax[i + 1] , height[i])
+        for i in range(n-1, -1 , -1):
+            rightMax[i] = right
+            right = max(right , height[i])
         
         res = 0
 
         for i in range(n):
-            res += min(rightMax[i] , leftMax[i]) - height[i]
-        
+            res += max(0, min(leftMax[i], rightMax[i]) - height[i])        
         return res
+
 
             
 
