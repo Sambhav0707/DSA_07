@@ -8,11 +8,13 @@ class Solution:
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         result = []
 
-        if root is None:
+        if not root:
             return []
         
-        result.extend(self.postorderTraversal(root.left))
-        result.extend(self.postorderTraversal(root.right))
+        result += self.postorderTraversal(root.left)
+
+        result += self.postorderTraversal(root.right)
+
         result.append(root.val)
 
         return result
