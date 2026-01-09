@@ -31,6 +31,7 @@ I will be adding the question that i did on DSA here
 | [0217-contains-duplicate](https://github.com/Sambhav0707/DSA_07/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Sambhav0707/DSA_07/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sambhav0707/DSA_07/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sambhav0707/DSA_07/tree/master/0347-top-k-frequent-elements) |
@@ -157,6 +158,7 @@ I will be adding the question that i did on DSA here
 | [0187-repeated-dna-sequences](https://github.com/Sambhav0707/DSA_07/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Sambhav0707/DSA_07/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sambhav0707/DSA_07/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sambhav0707/DSA_07/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sambhav0707/DSA_07/tree/master/0643-maximum-average-subarray-i) |
@@ -324,6 +326,7 @@ I will be adding the question that i did on DSA here
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sambhav0707/DSA_07/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Sambhav0707/DSA_07/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -435,6 +438,7 @@ I will be adding the question that i did on DSA here
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sambhav0707/DSA_07/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sambhav0707/DSA_07/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Sambhav0707/DSA_07/tree/master/0239-sliding-window-maximum) |
 ## Memoization
 |  |
 | ------- |
@@ -483,4 +487,8 @@ I will be adding the question that i did on DSA here
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sambhav0707/DSA_07/tree/master/0102-binary-tree-level-order-traversal) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sambhav0707/DSA_07/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
