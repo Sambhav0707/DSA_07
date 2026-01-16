@@ -6,46 +6,80 @@
 #         self.right = right
 class Solution:
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        # result = []
+#         # result = []
 
-        # if not root:
-        #     return []
+#         # if not root:
+#         #     return []
         
-        # result += self.postorderTraversal(root.left)
+#         # result += self.postorderTraversal(root.left)
 
-        # result += self.postorderTraversal(root.right)
+#         # result += self.postorderTraversal(root.right)
 
-        # result.append(root.val)
+#         # result.append(root.val)
 
-        # return result
+#         # return result
 
-        #  iterative approach with 2 stack
+#         #  iterative approach with 2 stack
 
-        st = deque()
+#         # st = deque()
 
-        visit = deque()
+#         # visit = deque()
+
+#         # result = []
+
+#         # st.append(root)
+
+#         # visit.append(False)
+
+#         # while st:
+#         #     cur , v = st.pop() , visit.pop()
+
+#         #     if cur:
+#         #         if v:
+#         #             result.append(cur.val)
+                
+#         #         else:
+#         #             st.append(cur)
+#         #             visit.append(True)
+#         #             st.append(cur.right)
+#         #             visit.append(False)
+#         #             st.append(cur.left)
+#         #             visit.append(False)
+
+#         # return result
+
+#         # using one stack 
 
         result = []
 
-        st.append(root)
+        cur = root 
 
-        visit.append(False)
+        st = deque()
 
-        while st:
-            cur , v = st.pop() , visit.pop()
+        last = None
 
-            if cur:
-                if v:
-                    result.append(cur.val)
-                
+        while cur or st:
+
+            if cur :
+
+                st.append(cur)
+                cur = cur.left
+
+            else:
+                temp = st[-1]
+
+                if temp.right and last != temp.right :
+                    cur = temp.right
                 else:
-                    st.append(cur)
-                    visit.append(True)
-                    st.append(cur.right)
-                    visit.append(False)
-                    st.append(cur.left)
-                    visit.append(False)
-
+                    result.append(temp.val)
+                    last = st.pop()
+            
         return result
+
+
+
+
+
+
 
         
