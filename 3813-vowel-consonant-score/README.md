@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/vowel-consonant-score">3813. Vowel-Consonant Score</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters, spaces, and digits.</p>
+<h2><a href="https://leetcode.com/problems/vowel-consonant-score">4178. Vowel-Consonant Score</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters, spaces, and digits.</p>
 
 <p>Let <code>v</code> be the number of vowels in <code>s</code> and <code>c</code> be the number of consonants in <code>s</code>.</p>
 
