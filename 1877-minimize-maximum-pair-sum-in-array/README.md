@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array">1877. Minimize Maximum Pair Sum in Array</a></h2><h3>Medium</h3><hr><p>The <strong>pair sum</strong> of a pair <code>(a,b)</code> is equal to <code>a + b</code>. The <strong>maximum pair sum</strong> is the largest <strong>pair sum</strong> in a list of pairs.</p>
+<h2><a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array">1988. Minimize Maximum Pair Sum in Array</a></h2><h3>Medium</h3><hr><p>The <strong>pair sum</strong> of a pair <code>(a,b)</code> is equal to <code>a + b</code>. The <strong>maximum pair sum</strong> is the largest <strong>pair sum</strong> in a list of pairs.</p>
 
 <ul>
 	<li>For example, if we have pairs <code>(1,5)</code>, <code>(2,3)</code>, and <code>(4,4)</code>, the <strong>maximum pair sum</strong> would be <code>max(1+5, 2+3, 4+4) = max(6, 5, 8) = 8</code>.</li>
