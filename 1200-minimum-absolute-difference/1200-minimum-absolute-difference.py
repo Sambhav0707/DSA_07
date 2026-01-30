@@ -29,6 +29,7 @@ class Solution:
             if diff == min_abs:
                 ans.append([arr[l] , arr[r]])
             if diff < min_abs:
+                ans = []
                 ans.append([arr[l] , arr[r]])
                 min_abs = diff
             
