@@ -59,6 +59,7 @@ I will be adding the question that i did on DSA here
 | [1046-max-consecutive-ones-iii](https://github.com/Sambhav0707/DSA_07/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sambhav0707/DSA_07/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Sambhav0707/DSA_07/tree/master/1185-find-in-mountain-array) |
+| [1200-minimum-absolute-difference](https://github.com/Sambhav0707/DSA_07/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sambhav0707/DSA_07/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -325,6 +326,7 @@ I will be adding the question that i did on DSA here
 | [0455-assign-cookies](https://github.com/Sambhav0707/DSA_07/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Sambhav0707/DSA_07/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/1019-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/Sambhav0707/DSA_07/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sambhav0707/DSA_07/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sambhav0707/DSA_07/tree/master/3074-apple-redistribution-into-boxes) |
