@@ -82,6 +82,7 @@ I will be adding the question that i did on DSA here
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sambhav0707/DSA_07/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sambhav0707/DSA_07/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sambhav0707/DSA_07/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3379-transformed-array](https://github.com/Sambhav0707/DSA_07/tree/master/3379-transformed-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sambhav0707/DSA_07/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Sambhav0707/DSA_07/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -447,6 +448,7 @@ I will be adding the question that i did on DSA here
 | [1552-build-an-array-with-stack-operations](https://github.com/Sambhav0707/DSA_07/tree/master/1552-build-an-array-with-stack-operations) |
 | [2058-concatenation-of-array](https://github.com/Sambhav0707/DSA_07/tree/master/2058-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Sambhav0707/DSA_07/tree/master/2211-count-collisions-on-a-road) |
+| [3379-transformed-array](https://github.com/Sambhav0707/DSA_07/tree/master/3379-transformed-array) |
 ## Queue
 |  |
 | ------- |
