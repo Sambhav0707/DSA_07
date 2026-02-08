@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/merge-adjacent-equal-elements">3834. Merge Adjacent Equal Elements</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/merge-adjacent-equal-elements">4213. Merge Adjacent Equal Elements</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>You must <strong>repeatedly</strong> apply the following merge operation until no more changes can be made:</p>
 
