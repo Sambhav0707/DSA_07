@@ -6,31 +6,15 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
+        # Base condition step
         if not root:
             return 0
-            
-        level_order = []
 
-        dq = collections.deque()
+        # hypothesis step
+        lh = self.maxDepth(root.left)
+        rh = self.maxDepth(root.right)
 
-        dq.append(root)
-
-        while dq:
-            level = []
-
-            dq_len = len(dq)
-            
-            for i in range(dq_len):
-
-                top = dq.popleft()
-
-                if top.left : dq.append(top.left)
-
-                if top.right : dq.append(top.right)
-
-                level.append(top.val)
-            
-            level_order.append(level)
+        # induction step
+        return 1 + max(lh , rh)
         
-        return len(level_order)
         
