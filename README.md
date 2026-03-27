@@ -544,4 +544,8 @@ I will be adding the question that i did on DSA here
 | [0022-generate-parentheses](https://github.com/Sambhav0707/DSA_07/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/Sambhav0707/DSA_07/tree/main/0078-subsets/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Sambhav0707/DSA_07/tree/master/0784-letter-case-permutation) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Sambhav0707/DSA_07/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
