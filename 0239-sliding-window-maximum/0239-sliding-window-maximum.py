@@ -5,19 +5,20 @@ class Solution:
         l = r = 0
 
         while r < len(nums):
-            while dq and nums[dq[-1]] < nums[r]:
+            while dq and dq[-1] < nums[r]:
                 dq.pop()
             
-            dq.append(r)
-
-            if l > dq[0]:
-                dq.popleft()
+            dq.append(nums[r])
             
-            if (r + 1) >= k:
-                output.append(nums[dq[0]])
+            if r >= k - 1:
+                output.append(dq[0])
+                if nums[l] == dq[0]:
+                    dq.popleft()
+                
                 l += 1
             
             r += 1
+                 
         
         return output
         
