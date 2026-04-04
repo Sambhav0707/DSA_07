@@ -55,6 +55,7 @@ I will be adding the question that i did on DSA here
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sambhav0707/DSA_07/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sambhav0707/DSA_07/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/Sambhav0707/DSA_07/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Sambhav0707/DSA_07/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Sambhav0707/DSA_07/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Sambhav0707/DSA_07/tree/master/0917-boats-to-save-people) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
@@ -109,6 +110,7 @@ I will be adding the question that i did on DSA here
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sambhav0707/DSA_07/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Sambhav0707/DSA_07/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Sambhav0707/DSA_07/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Sambhav0707/DSA_07/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sambhav0707/DSA_07/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sambhav0707/DSA_07/tree/master/1056-capacity-to-ship-packages-within-d-days) |
