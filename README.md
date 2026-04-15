@@ -37,6 +37,7 @@ I will be adding the question that i did on DSA here
 | [0240-search-a-2d-matrix-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Sambhav0707/DSA_07/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sambhav0707/DSA_07/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Sambhav0707/DSA_07/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Sambhav0707/DSA_07/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Sambhav0707/DSA_07/tree/master/0414-third-maximum-number) |
@@ -212,6 +213,7 @@ I will be adding the question that i did on DSA here
 | [0053-maximum-subarray](https://github.com/Sambhav0707/DSA_07/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sambhav0707/DSA_07/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Sambhav0707/DSA_07/tree/master/0118-pascals-triangle) |
+| [0322-coin-change](https://github.com/Sambhav0707/DSA_07/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Sambhav0707/DSA_07/tree/master/0678-valid-parenthesis-string) |
@@ -548,6 +550,7 @@ I will be adding the question that i did on DSA here
 | [0102-binary-tree-level-order-traversal](https://github.com/Sambhav0707/DSA_07/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sambhav0707/DSA_07/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sambhav0707/DSA_07/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/Sambhav0707/DSA_07/tree/master/0322-coin-change) |
 ## Monotonic Queue
 |  |
 | ------- |
