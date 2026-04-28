@@ -99,6 +99,7 @@ I will be adding the question that i did on DSA here
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sambhav0707/DSA_07/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Sambhav0707/DSA_07/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sambhav0707/DSA_07/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@ I will be adding the question that i did on DSA here
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sambhav0707/DSA_07/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sambhav0707/DSA_07/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sambhav0707/DSA_07/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
