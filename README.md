@@ -244,6 +244,7 @@ I will be adding the question that i did on DSA here
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Sambhav0707/DSA_07/tree/master/2481-strictly-palindromic-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sambhav0707/DSA_07/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Sambhav0707/DSA_07/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
