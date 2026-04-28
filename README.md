@@ -330,6 +330,7 @@ I will be adding the question that i did on DSA here
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sambhav0707/DSA_07/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2211-count-collisions-on-a-road](https://github.com/Sambhav0707/DSA_07/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Sambhav0707/DSA_07/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2833-furthest-point-from-origin](https://github.com/Sambhav0707/DSA_07/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3617-find-the-original-typed-string-i](https://github.com/Sambhav0707/DSA_07/tree/master/3617-find-the-original-typed-string-i) |
 ## String Matching
 | Problem Name | Difficulty |
@@ -382,6 +383,7 @@ I will be adding the question that i did on DSA here
 | [1034-subarrays-with-k-different-integers](https://github.com/Sambhav0707/DSA_07/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sambhav0707/DSA_07/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/Sambhav0707/DSA_07/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
