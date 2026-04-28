@@ -8,6 +8,7 @@ I will be adding the question that i did on DSA here
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sambhav0707/DSA_07/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Sambhav0707/DSA_07/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Sambhav0707/DSA_07/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sambhav0707/DSA_07/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Sambhav0707/DSA_07/tree/master/0027-remove-element) |
@@ -297,6 +298,7 @@ I will be adding the question that i did on DSA here
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sambhav0707/DSA_07/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Sambhav0707/DSA_07/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Sambhav0707/DSA_07/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Sambhav0707/DSA_07/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Sambhav0707/DSA_07/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sambhav0707/DSA_07/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -571,4 +573,8 @@ I will be adding the question that i did on DSA here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sambhav0707/DSA_07/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Sambhav0707/DSA_07/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
