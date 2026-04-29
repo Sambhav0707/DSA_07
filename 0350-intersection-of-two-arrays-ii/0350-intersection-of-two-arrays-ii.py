@@ -11,7 +11,7 @@ class Solution:
         
         # return ans
 
-        ans = 0
+        ans = []
         nums1.sort()
         nums2.sort()
 
