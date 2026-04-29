@@ -41,6 +41,7 @@ I will be adding the question that i did on DSA here
 | [0287-find-the-duplicate-number](https://github.com/Sambhav0707/DSA_07/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Sambhav0707/DSA_07/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Sambhav0707/DSA_07/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sambhav0707/DSA_07/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Sambhav0707/DSA_07/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0416-partition-equal-subset-sum) |
@@ -116,6 +117,7 @@ I will be adding the question that i did on DSA here
 | [0240-search-a-2d-matrix-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Sambhav0707/DSA_07/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Sambhav0707/DSA_07/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sambhav0707/DSA_07/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Sambhav0707/DSA_07/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/0540-single-element-in-a-sorted-array) |
@@ -156,6 +158,7 @@ I will be adding the question that i did on DSA here
 | [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sambhav0707/DSA_07/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sambhav0707/DSA_07/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sambhav0707/DSA_07/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Sambhav0707/DSA_07/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sambhav0707/DSA_07/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -273,6 +276,7 @@ I will be adding the question that i did on DSA here
 | [0287-find-the-duplicate-number](https://github.com/Sambhav0707/DSA_07/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sambhav0707/DSA_07/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sambhav0707/DSA_07/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sambhav0707/DSA_07/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/Sambhav0707/DSA_07/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Sambhav0707/DSA_07/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
@@ -358,6 +362,7 @@ I will be adding the question that i did on DSA here
 | [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sambhav0707/DSA_07/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sambhav0707/DSA_07/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sambhav0707/DSA_07/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/Sambhav0707/DSA_07/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Sambhav0707/DSA_07/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
