@@ -54,6 +54,7 @@ I will be adding the question that i did on DSA here
 | [0518-coin-change-ii](https://github.com/Sambhav0707/DSA_07/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Sambhav0707/DSA_07/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Sambhav0707/DSA_07/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Sambhav0707/DSA_07/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/Sambhav0707/DSA_07/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sambhav0707/DSA_07/tree/master/0643-maximum-average-subarray-i) |
@@ -173,6 +174,7 @@ I will be adding the question that i did on DSA here
 | [0496-next-greater-element-i](https://github.com/Sambhav0707/DSA_07/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sambhav0707/DSA_07/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Sambhav0707/DSA_07/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Sambhav0707/DSA_07/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sambhav0707/DSA_07/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Sambhav0707/DSA_07/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/Sambhav0707/DSA_07/tree/main/0621-task-scheduler/) | Medium |
@@ -213,6 +215,7 @@ I will be adding the question that i did on DSA here
 | [0303-range-sum-query-immutable](https://github.com/Sambhav0707/DSA_07/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Sambhav0707/DSA_07/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Sambhav0707/DSA_07/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sambhav0707/DSA_07/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sambhav0707/DSA_07/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
