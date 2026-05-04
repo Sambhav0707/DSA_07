@@ -53,6 +53,7 @@ I will be adding the question that i did on DSA here
 | [0518-coin-change-ii](https://github.com/Sambhav0707/DSA_07/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Sambhav0707/DSA_07/tree/master/0575-distribute-candies) |
+| [0621-task-scheduler](https://github.com/Sambhav0707/DSA_07/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sambhav0707/DSA_07/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Sambhav0707/DSA_07/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/Sambhav0707/DSA_07/tree/master/0706-design-hashmap) |
@@ -170,6 +171,7 @@ I will be adding the question that i did on DSA here
 | [0500-keyboard-row](https://github.com/Sambhav0707/DSA_07/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Sambhav0707/DSA_07/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Sambhav0707/DSA_07/tree/master/0575-distribute-candies) |
+| [0621-task-scheduler](https://github.com/Sambhav0707/DSA_07/tree/main/0621-task-scheduler/) | Medium |
 | [0706-design-hashmap](https://github.com/Sambhav0707/DSA_07/tree/master/0706-design-hashmap) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sambhav0707/DSA_07/tree/master/1034-subarrays-with-k-different-integers) |
@@ -301,6 +303,7 @@ I will be adding the question that i did on DSA here
 | [0402-remove-k-digits](https://github.com/Sambhav0707/DSA_07/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Sambhav0707/DSA_07/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Sambhav0707/DSA_07/tree/main/0621-task-scheduler/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sambhav0707/DSA_07/tree/master/0678-valid-parenthesis-string) |
 | [0917-boats-to-save-people](https://github.com/Sambhav0707/DSA_07/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav0707/DSA_07/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -374,6 +377,7 @@ I will be adding the question that i did on DSA here
 | [0414-third-maximum-number](https://github.com/Sambhav0707/DSA_07/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Sambhav0707/DSA_07/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Sambhav0707/DSA_07/tree/main/0621-task-scheduler/) | Medium |
 | [0853-car-fleet](https://github.com/Sambhav0707/DSA_07/tree/master/0853-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Sambhav0707/DSA_07/tree/master/0917-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Sambhav0707/DSA_07/tree/master/0973-k-closest-points-to-origin) |
@@ -390,6 +394,7 @@ I will be adding the question that i did on DSA here
 | [0239-sliding-window-maximum](https://github.com/Sambhav0707/DSA_07/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Sambhav0707/DSA_07/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Sambhav0707/DSA_07/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sambhav0707/DSA_07/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Sambhav0707/DSA_07/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Sambhav0707/DSA_07/tree/main/1046-last-stone-weight/) | Easy |
@@ -405,6 +410,7 @@ I will be adding the question that i did on DSA here
 | [0229-majority-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sambhav0707/DSA_07/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Sambhav0707/DSA_07/tree/main/0621-task-scheduler/) | Medium |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sambhav0707/DSA_07/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sambhav0707/DSA_07/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
