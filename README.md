@@ -51,6 +51,7 @@ I will be adding the question that i did on DSA here
 | [0496-next-greater-element-i](https://github.com/Sambhav0707/DSA_07/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sambhav0707/DSA_07/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/Sambhav0707/DSA_07/tree/main/0518-coin-change-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Sambhav0707/DSA_07/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Sambhav0707/DSA_07/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/Sambhav0707/DSA_07/tree/main/0621-task-scheduler/) | Medium |
@@ -169,6 +170,7 @@ I will be adding the question that i did on DSA here
 | [0451-sort-characters-by-frequency](https://github.com/Sambhav0707/DSA_07/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sambhav0707/DSA_07/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sambhav0707/DSA_07/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/Sambhav0707/DSA_07/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sambhav0707/DSA_07/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Sambhav0707/DSA_07/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/Sambhav0707/DSA_07/tree/main/0621-task-scheduler/) | Medium |
@@ -206,6 +208,7 @@ I will be adding the question that i did on DSA here
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Sambhav0707/DSA_07/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0724-find-pivot-index](https://github.com/Sambhav0707/DSA_07/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sambhav0707/DSA_07/tree/master/1046-max-consecutive-ones-iii) |
@@ -247,6 +250,7 @@ I will be adding the question that i did on DSA here
 | [0066-plus-one](https://github.com/Sambhav0707/DSA_07/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Sambhav0707/DSA_07/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sambhav0707/DSA_07/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0523-continuous-subarray-sum](https://github.com/Sambhav0707/DSA_07/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Sambhav0707/DSA_07/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Sambhav0707/DSA_07/tree/master/0973-k-closest-points-to-origin) |
