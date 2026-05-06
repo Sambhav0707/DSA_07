@@ -6,7 +6,7 @@ class Solution:
 
             for num in nums[1:]:
 
-                temp_max = max(
+                curr_max = max(
                     num,
                     curr_max * num,
                     curr_min * num
@@ -18,7 +18,7 @@ class Solution:
                     curr_min * num
                 )
 
-                curr_max = temp_max
+                #  = temp_max
 
                 ans = max(ans, curr_max)
 
