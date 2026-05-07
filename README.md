@@ -110,6 +110,7 @@ I will be adding the question that i did on DSA here
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sambhav0707/DSA_07/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Sambhav0707/DSA_07/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3660-jump-game-ix](https://github.com/Sambhav0707/DSA_07/tree/main/3660-jump-game-ix/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sambhav0707/DSA_07/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -255,6 +256,7 @@ I will be adding the question that i did on DSA here
 | [0518-coin-change-ii](https://github.com/Sambhav0707/DSA_07/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sambhav0707/DSA_07/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Sambhav0707/DSA_07/tree/master/1013-fibonacci-number) |
+| [3660-jump-game-ix](https://github.com/Sambhav0707/DSA_07/tree/main/3660-jump-game-ix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
