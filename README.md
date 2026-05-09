@@ -91,6 +91,7 @@ I will be adding the question that i did on DSA here
 | [1755-defuse-the-bomb](https://github.com/Sambhav0707/DSA_07/tree/master/1755-defuse-the-bomb) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sambhav0707/DSA_07/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Sambhav0707/DSA_07/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Sambhav0707/DSA_07/tree/main/1929-concatenation-of-array/) | Easy |
 | [2047-find-a-peak-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/Sambhav0707/DSA_07/tree/master/2058-concatenation-of-array) |
@@ -444,6 +445,7 @@ I will be adding the question that i did on DSA here
 | [0074-search-a-2d-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sambhav0707/DSA_07/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Sambhav0707/DSA_07/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2047-find-a-peak-element-ii](https://github.com/Sambhav0707/DSA_07/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/Sambhav0707/DSA_07/tree/master/2737-row-with-maximum-ones) |
 ## Stack
@@ -537,6 +539,7 @@ I will be adding the question that i did on DSA here
 | [0682-baseball-game](https://github.com/Sambhav0707/DSA_07/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sambhav0707/DSA_07/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sambhav0707/DSA_07/tree/master/1552-build-an-array-with-stack-operations) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Sambhav0707/DSA_07/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Sambhav0707/DSA_07/tree/main/1929-concatenation-of-array/) | Easy |
 | [2058-concatenation-of-array](https://github.com/Sambhav0707/DSA_07/tree/master/2058-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Sambhav0707/DSA_07/tree/master/2211-count-collisions-on-a-road) |
