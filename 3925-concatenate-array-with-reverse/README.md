@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/concatenate-array-with-reverse">3925. Concatenate Array With Reverse</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/concatenate-array-with-reverse">4299. Concatenate Array With Reverse</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>Construct a new array <code>ans</code> of length <code>2 * n</code> such that the first <code>n</code> elements are the same as <code>nums</code>, and the next <code>n</code> elements are the elements of <code>nums</code> in reverse order.</p>
 
