@@ -102,6 +102,7 @@ I will be adding the question that i did on DSA here
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sambhav0707/DSA_07/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sambhav0707/DSA_07/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/2553-separate-the-digits-in-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/Sambhav0707/DSA_07/tree/master/2737-row-with-maximum-ones) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sambhav0707/DSA_07/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sambhav0707/DSA_07/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -543,6 +544,7 @@ I will be adding the question that i did on DSA here
 | [1929-concatenation-of-array](https://github.com/Sambhav0707/DSA_07/tree/main/1929-concatenation-of-array/) | Easy |
 | [2058-concatenation-of-array](https://github.com/Sambhav0707/DSA_07/tree/master/2058-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Sambhav0707/DSA_07/tree/master/2211-count-collisions-on-a-road) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/Sambhav0707/DSA_07/tree/master/3379-transformed-array) |
 ## Queue
 |  |
