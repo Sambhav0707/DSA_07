@@ -87,6 +87,7 @@ I will be adding the question that i did on DSA here
 | [1552-build-an-array-with-stack-operations](https://github.com/Sambhav0707/DSA_07/tree/master/1552-build-an-array-with-stack-operations) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sambhav0707/DSA_07/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sambhav0707/DSA_07/tree/master/1646-kth-missing-positive-number) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sambhav0707/DSA_07/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Sambhav0707/DSA_07/tree/master/1755-defuse-the-bomb) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sambhav0707/DSA_07/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -332,6 +333,7 @@ I will be adding the question that i did on DSA here
 | [0917-boats-to-save-people](https://github.com/Sambhav0707/DSA_07/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav0707/DSA_07/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/Sambhav0707/DSA_07/tree/master/1448-maximum-69-number) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sambhav0707/DSA_07/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sambhav0707/DSA_07/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sambhav0707/DSA_07/tree/master/3074-apple-redistribution-into-boxes) |
@@ -407,6 +409,7 @@ I will be adding the question that i did on DSA here
 | [0973-k-closest-points-to-origin](https://github.com/Sambhav0707/DSA_07/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sambhav0707/DSA_07/tree/master/1200-minimum-absolute-difference) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sambhav0707/DSA_07/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sambhav0707/DSA_07/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sambhav0707/DSA_07/tree/master/3074-apple-redistribution-into-boxes) |
