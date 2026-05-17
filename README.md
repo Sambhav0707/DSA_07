@@ -81,6 +81,7 @@ I will be adding the question that i did on DSA here
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sambhav0707/DSA_07/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Sambhav0707/DSA_07/tree/master/1185-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sambhav0707/DSA_07/tree/master/1200-minimum-absolute-difference) |
+| [1306-jump-game-iii](https://github.com/Sambhav0707/DSA_07/tree/main/1306-jump-game-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sambhav0707/DSA_07/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -616,6 +617,7 @@ I will be adding the question that i did on DSA here
 | [0145-binary-tree-postorder-traversal](https://github.com/Sambhav0707/DSA_07/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sambhav0707/DSA_07/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Sambhav0707/DSA_07/tree/master/0572-subtree-of-another-tree) |
+| [1306-jump-game-iii](https://github.com/Sambhav0707/DSA_07/tree/main/1306-jump-game-iii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -637,6 +639,7 @@ I will be adding the question that i did on DSA here
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sambhav0707/DSA_07/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sambhav0707/DSA_07/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Sambhav0707/DSA_07/tree/master/0322-coin-change) |
+| [1306-jump-game-iii](https://github.com/Sambhav0707/DSA_07/tree/main/1306-jump-game-iii/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
