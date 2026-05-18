@@ -82,6 +82,7 @@ I will be adding the question that i did on DSA here
 | [1185-find-in-mountain-array](https://github.com/Sambhav0707/DSA_07/tree/master/1185-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sambhav0707/DSA_07/tree/master/1200-minimum-absolute-difference) |
 | [1306-jump-game-iii](https://github.com/Sambhav0707/DSA_07/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Sambhav0707/DSA_07/tree/main/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sambhav0707/DSA_07/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -194,6 +195,7 @@ I will be adding the question that i did on DSA here
 | [0966-binary-subarrays-with-sum](https://github.com/Sambhav0707/DSA_07/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sambhav0707/DSA_07/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1034-subarrays-with-k-different-integers](https://github.com/Sambhav0707/DSA_07/tree/master/1034-subarrays-with-k-different-integers) |
+| [1345-jump-game-iv](https://github.com/Sambhav0707/DSA_07/tree/main/1345-jump-game-iv/) | Hard |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sambhav0707/DSA_07/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sambhav0707/DSA_07/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -640,6 +642,7 @@ I will be adding the question that i did on DSA here
 | [0226-invert-binary-tree](https://github.com/Sambhav0707/DSA_07/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Sambhav0707/DSA_07/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/Sambhav0707/DSA_07/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Sambhav0707/DSA_07/tree/main/1345-jump-game-iv/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
