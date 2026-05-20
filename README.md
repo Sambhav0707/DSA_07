@@ -109,6 +109,7 @@ I will be adding the question that i did on DSA here
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sambhav0707/DSA_07/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Sambhav0707/DSA_07/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sambhav0707/DSA_07/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2737-row-with-maximum-ones](https://github.com/Sambhav0707/DSA_07/tree/master/2737-row-with-maximum-ones) |
 | [2784-check-if-array-is-good](https://github.com/Sambhav0707/DSA_07/tree/master/2784-check-if-array-is-good) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sambhav0707/DSA_07/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -203,6 +204,7 @@ I will be adding the question that i did on DSA here
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sambhav0707/DSA_07/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/Sambhav0707/DSA_07/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sambhav0707/DSA_07/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Sambhav0707/DSA_07/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sambhav0707/DSA_07/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -523,6 +525,7 @@ I will be adding the question that i did on DSA here
 | [0389-find-the-difference](https://github.com/Sambhav0707/DSA_07/tree/master/0389-find-the-difference) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Sambhav0707/DSA_07/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Sambhav0707/DSA_07/tree/master/0784-letter-case-permutation) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sambhav0707/DSA_07/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
