@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/jump-game-v">1466. Jump Game V</a></h2><h3>Hard</h3><hr><p>Given an array of&nbsp;integers <code>arr</code> and an integer <code>d</code>. In one step you can jump from index <code>i</code> to index:</p>
+<h2><a href="https://leetcode.com/problems/jump-game-v">1340. Jump Game V</a></h2><h3>Hard</h3><hr><p>Given an array of&nbsp;integers <code>arr</code> and an integer <code>d</code>. In one step you can jump from index <code>i</code> to index:</p>
 
 <ul>
 	<li><code>i + x</code> where:&nbsp;<code>i + x &lt; arr.length</code> and <code> 0 &lt;&nbsp;x &lt;= d</code>.</li>
