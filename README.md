@@ -82,6 +82,7 @@ I will be adding the question that i did on DSA here
 | [1185-find-in-mountain-array](https://github.com/Sambhav0707/DSA_07/tree/master/1185-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sambhav0707/DSA_07/tree/master/1200-minimum-absolute-difference) |
 | [1306-jump-game-iii](https://github.com/Sambhav0707/DSA_07/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/Sambhav0707/DSA_07/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Sambhav0707/DSA_07/tree/main/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sambhav0707/DSA_07/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1370-count-number-of-nice-subarrays) |
@@ -277,6 +278,7 @@ I will be adding the question that i did on DSA here
 | [0518-coin-change-ii](https://github.com/Sambhav0707/DSA_07/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Sambhav0707/DSA_07/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Sambhav0707/DSA_07/tree/master/1013-fibonacci-number) |
+| [1340-jump-game-v](https://github.com/Sambhav0707/DSA_07/tree/master/1340-jump-game-v) |
 | [3660-jump-game-ix](https://github.com/Sambhav0707/DSA_07/tree/main/3660-jump-game-ix/) | Medium |
 ## Math
 |  |
@@ -429,6 +431,7 @@ I will be adding the question that i did on DSA here
 | [0973-k-closest-points-to-origin](https://github.com/Sambhav0707/DSA_07/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sambhav0707/DSA_07/tree/master/1200-minimum-absolute-difference) |
+| [1340-jump-game-v](https://github.com/Sambhav0707/DSA_07/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sambhav0707/DSA_07/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2784-check-if-array-is-good](https://github.com/Sambhav0707/DSA_07/tree/master/2784-check-if-array-is-good) |
