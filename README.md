@@ -233,6 +233,7 @@ I will be adding the question that i did on DSA here
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sambhav0707/DSA_07/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sambhav0707/DSA_07/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Sambhav0707/DSA_07/tree/master/1755-defuse-the-bomb) |
+| [1871-jump-game-vii](https://github.com/Sambhav0707/DSA_07/tree/main/1871-jump-game-vii/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/Sambhav0707/DSA_07/tree/main/2090-k-radius-subarray-averages/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -250,6 +251,7 @@ I will be adding the question that i did on DSA here
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sambhav0707/DSA_07/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sambhav0707/DSA_07/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1871-jump-game-vii](https://github.com/Sambhav0707/DSA_07/tree/main/1871-jump-game-vii/) | Medium |
 | [2102-find-the-middle-index-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/2102-find-the-middle-index-in-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Sambhav0707/DSA_07/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Divide and Conquer
@@ -279,6 +281,7 @@ I will be adding the question that i did on DSA here
 | [0678-valid-parenthesis-string](https://github.com/Sambhav0707/DSA_07/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Sambhav0707/DSA_07/tree/master/1013-fibonacci-number) |
 | [1340-jump-game-v](https://github.com/Sambhav0707/DSA_07/tree/main/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/Sambhav0707/DSA_07/tree/main/1871-jump-game-vii/) | Medium |
 | [3660-jump-game-ix](https://github.com/Sambhav0707/DSA_07/tree/main/3660-jump-game-ix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -392,6 +395,7 @@ I will be adding the question that i did on DSA here
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sambhav0707/DSA_07/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sambhav0707/DSA_07/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sambhav0707/DSA_07/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1871-jump-game-vii](https://github.com/Sambhav0707/DSA_07/tree/main/1871-jump-game-vii/) | Medium |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sambhav0707/DSA_07/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
