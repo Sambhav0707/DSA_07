@@ -211,6 +211,7 @@ I will be adding the question that i did on DSA here
 | [2784-check-if-array-is-good](https://github.com/Sambhav0707/DSA_07/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sambhav0707/DSA_07/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sambhav0707/DSA_07/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Sambhav0707/DSA_07/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sambhav0707/DSA_07/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sambhav0707/DSA_07/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -404,6 +405,7 @@ I will be adding the question that i did on DSA here
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sambhav0707/DSA_07/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Sambhav0707/DSA_07/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sambhav0707/DSA_07/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Sambhav0707/DSA_07/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3617-find-the-original-typed-string-i](https://github.com/Sambhav0707/DSA_07/tree/master/3617-find-the-original-typed-string-i) |
 ## String Matching
 | Problem Name | Difficulty |
