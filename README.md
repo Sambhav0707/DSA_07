@@ -119,6 +119,7 @@ I will be adding the question that i did on DSA here
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sambhav0707/DSA_07/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sambhav0707/DSA_07/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sambhav0707/DSA_07/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sambhav0707/DSA_07/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/Sambhav0707/DSA_07/tree/master/3379-transformed-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sambhav0707/DSA_07/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -305,6 +306,7 @@ I will be adding the question that i did on DSA here
 | [1885-count-number-of-homogenous-substrings](https://github.com/Sambhav0707/DSA_07/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Sambhav0707/DSA_07/tree/master/2481-strictly-palindromic-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sambhav0707/DSA_07/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sambhav0707/DSA_07/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sambhav0707/DSA_07/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Enumeration
