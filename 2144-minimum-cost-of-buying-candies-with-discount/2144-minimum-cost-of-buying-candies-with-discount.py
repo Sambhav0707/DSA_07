@@ -7,9 +7,9 @@ class Solution:
         for i in range(n - 1 , -1 , -1):
             if count == 2:
                 count = 0
-                continue
-            min_cost += cost[i]
-            count += 1
+            else:    
+                min_cost += cost[i]
+                count += 1
         return min_cost
         
             
