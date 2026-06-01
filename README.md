@@ -105,6 +105,7 @@ I will be adding the question that i did on DSA here
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sambhav0707/DSA_07/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Sambhav0707/DSA_07/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2102-find-the-middle-index-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/2102-find-the-middle-index-in-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sambhav0707/DSA_07/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sambhav0707/DSA_07/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sambhav0707/DSA_07/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -363,6 +364,7 @@ I will be adding the question that i did on DSA here
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sambhav0707/DSA_07/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sambhav0707/DSA_07/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sambhav0707/DSA_07/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sambhav0707/DSA_07/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sambhav0707/DSA_07/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
@@ -442,6 +444,7 @@ I will be adding the question that i did on DSA here
 | [1340-jump-game-v](https://github.com/Sambhav0707/DSA_07/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sambhav0707/DSA_07/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sambhav0707/DSA_07/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Sambhav0707/DSA_07/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sambhav0707/DSA_07/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sambhav0707/DSA_07/tree/master/3074-apple-redistribution-into-boxes) |
