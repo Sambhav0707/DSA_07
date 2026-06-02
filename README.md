@@ -125,6 +125,7 @@ I will be adding the question that i did on DSA here
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sambhav0707/DSA_07/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Sambhav0707/DSA_07/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sambhav0707/DSA_07/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3660-jump-game-ix](https://github.com/Sambhav0707/DSA_07/tree/main/3660-jump-game-ix/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sambhav0707/DSA_07/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Binary Search
@@ -165,6 +166,7 @@ I will be adding the question that i did on DSA here
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sambhav0707/DSA_07/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Sambhav0707/DSA_07/tree/master/2540-minimum-common-value) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Sambhav0707/DSA_07/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sambhav0707/DSA_07/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,6 +349,7 @@ I will be adding the question that i did on DSA here
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/Sambhav0707/DSA_07/tree/master/2481-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/Sambhav0707/DSA_07/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sambhav0707/DSA_07/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +370,7 @@ I will be adding the question that i did on DSA here
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sambhav0707/DSA_07/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sambhav0707/DSA_07/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sambhav0707/DSA_07/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sambhav0707/DSA_07/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -449,6 +453,7 @@ I will be adding the question that i did on DSA here
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sambhav0707/DSA_07/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sambhav0707/DSA_07/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sambhav0707/DSA_07/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sambhav0707/DSA_07/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
