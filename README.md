@@ -126,6 +126,7 @@ I will be adding the question that i did on DSA here
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sambhav0707/DSA_07/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Sambhav0707/DSA_07/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sambhav0707/DSA_07/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sambhav0707/DSA_07/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/Sambhav0707/DSA_07/tree/main/3660-jump-game-ix/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sambhav0707/DSA_07/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Binary Search
@@ -167,6 +168,7 @@ I will be adding the question that i did on DSA here
 | [2540-minimum-common-value](https://github.com/Sambhav0707/DSA_07/tree/master/2540-minimum-common-value) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Sambhav0707/DSA_07/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sambhav0707/DSA_07/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sambhav0707/DSA_07/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +352,7 @@ I will be adding the question that i did on DSA here
 | [2481-strictly-palindromic-number](https://github.com/Sambhav0707/DSA_07/tree/master/2481-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/Sambhav0707/DSA_07/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sambhav0707/DSA_07/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sambhav0707/DSA_07/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,6 +374,7 @@ I will be adding the question that i did on DSA here
 | [3074-apple-redistribution-into-boxes](https://github.com/Sambhav0707/DSA_07/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sambhav0707/DSA_07/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sambhav0707/DSA_07/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sambhav0707/DSA_07/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,6 +458,7 @@ I will be adding the question that i did on DSA here
 | [3074-apple-redistribution-into-boxes](https://github.com/Sambhav0707/DSA_07/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sambhav0707/DSA_07/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sambhav0707/DSA_07/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sambhav0707/DSA_07/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
