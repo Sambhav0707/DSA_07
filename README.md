@@ -290,6 +290,7 @@ I will be adding the question that i did on DSA here
 | [1340-jump-game-v](https://github.com/Sambhav0707/DSA_07/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/Sambhav0707/DSA_07/tree/main/1871-jump-game-vii/) | Medium |
 | [3660-jump-game-ix](https://github.com/Sambhav0707/DSA_07/tree/main/3660-jump-game-ix/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sambhav0707/DSA_07/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,11 +314,13 @@ I will be adding the question that i did on DSA here
 | [2481-strictly-palindromic-number](https://github.com/Sambhav0707/DSA_07/tree/master/2481-strictly-palindromic-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sambhav0707/DSA_07/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sambhav0707/DSA_07/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sambhav0707/DSA_07/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sambhav0707/DSA_07/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sambhav0707/DSA_07/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sambhav0707/DSA_07/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
