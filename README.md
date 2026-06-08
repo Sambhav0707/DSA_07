@@ -106,6 +106,7 @@ I will be adding the question that i did on DSA here
 | [2090-k-radius-subarray-averages](https://github.com/Sambhav0707/DSA_07/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2102-find-the-middle-index-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sambhav0707/DSA_07/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sambhav0707/DSA_07/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sambhav0707/DSA_07/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sambhav0707/DSA_07/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -357,6 +358,7 @@ I will be adding the question that i did on DSA here
 | [0917-boats-to-save-people](https://github.com/Sambhav0707/DSA_07/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sambhav0707/DSA_07/tree/master/1019-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sambhav0707/DSA_07/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sambhav0707/DSA_07/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sambhav0707/DSA_07/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/Sambhav0707/DSA_07/tree/master/2481-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/Sambhav0707/DSA_07/tree/master/2540-minimum-common-value) |
@@ -601,6 +603,7 @@ I will be adding the question that i did on DSA here
 | [1914-cyclically-rotating-a-grid](https://github.com/Sambhav0707/DSA_07/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Sambhav0707/DSA_07/tree/main/1929-concatenation-of-array/) | Easy |
 | [2058-concatenation-of-array](https://github.com/Sambhav0707/DSA_07/tree/master/2058-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sambhav0707/DSA_07/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/Sambhav0707/DSA_07/tree/master/2211-count-collisions-on-a-road) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sambhav0707/DSA_07/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/Sambhav0707/DSA_07/tree/master/3379-transformed-array) |
