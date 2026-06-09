@@ -131,6 +131,7 @@ I will be adding the question that i did on DSA here
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sambhav0707/DSA_07/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sambhav0707/DSA_07/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/Sambhav0707/DSA_07/tree/main/3660-jump-game-ix/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Sambhav0707/DSA_07/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sambhav0707/DSA_07/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Binary Search
 |  |
@@ -386,6 +387,7 @@ I will be adding the question that i did on DSA here
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sambhav0707/DSA_07/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sambhav0707/DSA_07/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sambhav0707/DSA_07/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Sambhav0707/DSA_07/tree/master/3689-maximum-total-subarray-value-i) |
 ## String
 |  |
 | ------- |
