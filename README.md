@@ -135,6 +135,7 @@ I will be adding the question that i did on DSA here
 | [3689-maximum-total-subarray-value-i](https://github.com/Sambhav0707/DSA_07/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sambhav0707/DSA_07/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sambhav0707/DSA_07/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Sambhav0707/DSA_07/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -327,6 +328,7 @@ I will be adding the question that i did on DSA here
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sambhav0707/DSA_07/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sambhav0707/DSA_07/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sambhav0707/DSA_07/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Sambhav0707/DSA_07/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Enumeration
 |  |
 | ------- |
