@@ -316,6 +316,7 @@ I will be adding the question that i did on DSA here
 | [0523-continuous-subarray-sum](https://github.com/Sambhav0707/DSA_07/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Sambhav0707/DSA_07/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Sambhav0707/DSA_07/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Sambhav0707/DSA_07/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Sambhav0707/DSA_07/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/Sambhav0707/DSA_07/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sambhav0707/DSA_07/tree/master/1370-count-number-of-nice-subarrays) |
@@ -730,6 +731,7 @@ I will be adding the question that i did on DSA here
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Sambhav0707/DSA_07/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Sambhav0707/DSA_07/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
